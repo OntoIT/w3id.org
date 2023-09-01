@@ -17,9 +17,6 @@ Liviana Tudor - Politehnica University of Bucharest , Petroleum-Gas University o
 
 Lecia Barker - University of Colorado, Boulder, USA
 
-
-Contributors:
-
 Ghislain Atemezing - Mondeca (Paris), France
 
 Mohammad Q. Azhar - BMCC, The City University of New York, USA
