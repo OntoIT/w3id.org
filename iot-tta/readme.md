@@ -1,8 +1,6 @@
 https://w3id.org/iot-tta is a permanent URI 
 
-for the 
-
-IoT-TTA ontology for Internet of Things Technologies, Tools, and Applications: 
+for the "IoT-TTA ontology for Internet of Things Technologies, Tools, and Applications" 
 
 Version IRI: https://tudorliv.github.io/IoT-TTA/iot-tta.ttl
 
