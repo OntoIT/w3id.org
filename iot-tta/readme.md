@@ -10,11 +10,13 @@ Source: https://tudorliv.github.io/IoT-TTA/iot-tta.owl
 
 Current version: Version 1.3
 
+
 Authors:
 
 Liviana Tudor - Politehnica University of Bucharest , Petroleum-Gas University of Ploiesti, Romania
 
 Lecia Barker - University of Colorado, Boulder, USA
+
 
 Contributors:
 
