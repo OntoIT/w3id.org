@@ -4,8 +4,6 @@ for the
 
 IoT-TTA ontology for Internet of Things Technologies, Tools, and Applications: 
 
-URI: https://w3id.org/iot-tta
-
 Version IRI: https://tudorliv.github.io/IoT-TTA/iot-tta.ttl
 
 Source: https://tudorliv.github.io/IoT-TTA/iot-tta.owl
