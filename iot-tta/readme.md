@@ -1,10 +1,10 @@
-https://w3id.org/iiot is a permanent URI 
+https://w3id.org/IIoT is a permanent URI 
 
-for the "IIoT ontology for Internet of Things systems" 
+for the "IIoT ontology for Industrial Internet of Things systems" 
 
-Version IRI: https://tudorliv.github.io/IIoT/iiot.ttl
+Version IRI: https://tudorliv.github.io/IIoT/IIoT.ttl
 
-Source: https://tudorliv.github.io/IIoT/iiot.owl
+Source: https://github.com/tudorliv/IIoT/blob/main/IIoT.owl
 
 Maintainer: Liviana Tudor
 
